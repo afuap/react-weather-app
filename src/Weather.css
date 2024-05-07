@@ -44,5 +44,9 @@
   font-weight: 400;
   position: relative;
   line-height: 1;
-  top: 8px;
+  top: -32px;
+}
+
+.Weather a {
+  text-decoration: none;
 }
