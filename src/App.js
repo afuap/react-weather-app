@@ -16,6 +16,14 @@ export default function App() {
             rel="noopener noreferrer"
           >
             opened-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://prismatic-gaufre-4703bc.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
           </a>
           .
         </footer>
